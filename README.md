@@ -31,4 +31,4 @@ The entire process, from preprocessing to clustering, is bundled into a single `
 
 Your project directory should look like this:
 
-```![Proj Folder Structure](image.png)```
+![Proj Folder Structure](image.png)
